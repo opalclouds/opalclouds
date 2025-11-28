@@ -1,6 +1,6 @@
 # Hi, I’m Shreya 👋
 
-I build models for the real world : fraud, credit risk, ESG forecasting, and anything that demands clarity from chaos.  
+I build models for the real world : fraud, credit risk, ESG forecasting, and anything that demands clarity.  
 I’m a chemical engineer who moved into fintech AI, and now I’m exploring deeper research directions in LLMs, RAG systems, and applied machine intelligence.
 
 ### 🌿 What I’m doing now
