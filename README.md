@@ -19,7 +19,7 @@ Research opportunities in AI/ML especially LLM reasoning, retrieval systems, hyb
 
 ### 🐚 Connect
 
-📧 shreya130gupta@gmail.com
+📧 shreya1405gupta@gmail.com / shreya130gupta@gmail.com
 
 💼 [LinkedIn](https://www.linkedin.com/in/shreya-gupta-383811233)
 
